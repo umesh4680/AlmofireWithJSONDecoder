@@ -1,0 +1,6 @@
+framework module Pods_AlmofireWithJSONDecoderUITests {
+  umbrella header "Pods-AlmofireWithJSONDecoderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
